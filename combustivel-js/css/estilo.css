@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+    background-color: white;
+    font-weight: bolder;
+    width: 20%;
+    margin: auto;
+}
+
+main{
+    background-image: url("../css/imagem.jpg");
+    min-width: none;
+    min-height: none;
+
+}
+
+
+
+
+
